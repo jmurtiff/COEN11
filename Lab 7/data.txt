@@ -1,0 +1,7 @@
+Name		Group Size
+--------------------------
+lola		2
+kim		1
+will		2
+bob		2
+william		4
